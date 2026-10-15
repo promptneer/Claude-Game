@@ -1,3 +1,4 @@
+一个完整的游戏开发工作室
 <p align="center">
   <h1 align="center">Claude Code Game Studios</h1>
   <p align="center">
